@@ -1,0 +1,1329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between R---- and F----, concerning a discourse entitul'd, The view of an ecclesiastick in his socks and buskins: or, a just reprimand given to Mr. Alsop. Wherein is discover'd, an unheard-of discord between the author and himself. / By a friend to the cause of Mr. Lobb, the worth of Mr. Williams, and the persons of both.</title>
+            <author>Young, Samuel, fl. 1684-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06798</idno>
+            <idno type="STC">Wing Y78A</idno>
+            <idno type="STC">ESTC R186944</idno>
+            <idno type="EEBO-CITATION">52529131</idno>
+            <idno type="OCLC">ocm 52529131</idno>
+            <idno type="VID">179288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179288)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2782:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between R---- and F----, concerning a discourse entitul'd, The view of an ecclesiastick in his socks and buskins: or, a just reprimand given to Mr. Alsop. Wherein is discover'd, an unheard-of discord between the author and himself. / By a friend to the cause of Mr. Lobb, the worth of Mr. Williams, and the persons of both.</title>
+                  <author>Young, Samuel, fl. 1684-1700.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Marshal, at the Bible in Gracechurch-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Young by Wing.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alsop, Vincent, 1629 or 30-1703.</term>
+               <term>Lobb, Stephen, d. 1699.</term>
+               <term>View of an ecclesiastick in his socks and buskins.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179288:1" rendition="simple:additions"/>
+            <pb facs="tcp:179288:1"/>
+            <pb facs="tcp:179288:2"/>
+            <pb facs="tcp:179288:2"/>
+            <p>A DIALOGUE BETWEEN R— and F—,</p>
+            <p>Concerning a Diſcourſe entitul'd, <hi>The View of an Eccleſiaſtick in his Socks and Buskins:</hi> OR, <hi>A Iuſt Reprimand given to Mr.</hi> Alſop.</p>
+            <p>Wherein is diſcover'd, An unheard-of Diſcord between the <hi>Author</hi> and <hi>Himſelf.</hi>
+            </p>
+            <q>Quid dignum tanto feret hic Promiſſor hiatu.
+<bibl>
+                  <hi>Hor. Art. Po.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 JAMES 8.</hi>
+               </bibl> A double-minded Man is unſtable in all his ways.</q>
+            <p>By a Friend to the Cauſe of Mr. <hi>Lobb,</hi> the Worth of Mr. <hi>Williams,</hi> and the Perſons of both.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Marſhal,</hi> at the <hi>Bible</hi> in <hi>Gracechurch-street.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:179288:3"/>
+            <pb n="3" facs="tcp:179288:3"/>
+            <head>A DIALOGUE BETWEEN <hi>R</hi>— and <hi>F</hi>—.</head>
+            <sp>
+               <speaker>R.</speaker>
+               <p>WELL met, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I wiſh it may be ſo; for ſome think we never as yet met well; that never was the leaſt Harmony, but greateſt Diſcord imaginable, as in our Prin<g ref="char:EOLhyphen"/>ciples and Practiſes, ſo in our Diſcourſes and printed Books too: eſpecially about Poli<g ref="char:EOLhyphen"/>ticks. I therefore more than believe we ſhall certainly fall out, and make ſport and merriment for all that ſee us, and hear us talk. But do you not think Mr. <hi>Alſop</hi> is juſtly charged with <hi>a ludicrous way of ſpeaking of the Eternal Counſels of God, and of the great Articles of the Chriſtian Faith,</hi> as he is char<g ref="char:EOLhyphen"/>ged
+<pb n="4" facs="tcp:179288:4"/>in the Preface, and often in the Book <hi>[The Reprimand]?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>No man doubts it, every man blames him here, himſelf excepted; and I now hope this Exception will not be long liv'd. It ſeems to his Adverſaries and Advocates too to be a Sin of a deep dye, that hath too great an affinity with his 5 <hi>Dan.</hi> 3, 4, 5, 6. when they brought the golden Veſſels of the Tem<g ref="char:EOLhyphen"/>ple, as common ones, in their Feaſts, for which was a Hand-writing againſt the Wall. Let him remember this in his Wri<g ref="char:EOLhyphen"/>tings, which are too much tinctur'd with Levity: If he or any other doubt it, I on<g ref="char:EOLhyphen"/>ly pray them, <hi>melius inquirendum,</hi> that they would better enquire. That he is a man of an unbridled Fancy, cannot be denied: A Joke, and ſometimes an unſavory one, (and the more prophane when ſacred) tickleth like a Sneeze, that there is no reſt till it be out, though never ſo offenſive to chaſte Ears. <hi>Non tutum eſt ludere ſacris</hi> is in every man's Mouth. This Sin makes great breaches in the Conſcience. D. <hi>Wilde</hi> (as is hinted) ſome months before his death, paid dear for his Levity, and ſo may Mr. <hi>Alſop</hi> in time; I hope on this ſide the Grave. Give, I pray, your Character of him.</p>
+            </sp>
+            <pb n="5" facs="tcp:179288:4"/>
+            <sp>
+               <speaker>F.</speaker>
+               <p>
+                  <hi>I will ſo behave my ſelf in the Refle<g ref="char:EOLhyphen"/>ctions I am to make, as not to depart from the Rules of good breeding,</hi> p. 14. And therefore I ſay Mr. <hi>Alſop</hi> is <hi>delirious,</hi> a <hi>mad-man, diſtracted.</hi> He <hi>ſlanders and lampoons an Adverſary, when his buſineſs ſhould be modeſtly to confute him</hi> — <hi>This is not conſonant with, nor reconcilable to me.</hi> I therefore promiſe, <hi>There ſhall be nothing courſe or unſavory, but all palatable and well dreſt: I will perform a Duty that I conceive to be lawful.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I doubt you are (not he) diſtracted, I am ſure you talk as ſuch: Do you make Promiſes only to break them, and that in the ſame breath too? Is it not your bu<g ref="char:EOLhyphen"/>ſineſs modeſtly to confute an Adverſary as well as his? Or mean you this is his Pro<g ref="char:EOLhyphen"/>vince only, not yours? You promiſe well tho brokenly, <hi>You will do it.</hi> I aſſure you it is high time, for you have never done it yet; your Practiſe hath hitherto confuted you, I wiſh <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ay not ſtill. I muſt deal plainly with you, You are the moſt in<g ref="char:EOLhyphen"/>conſiſtent man I ever heard.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>You are a K — to talk thus.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>It may be ſo, Sir; for I have always been ſo converſant with you, that I may be ſuch as you; and it is often ſaid, The Oyſter-women and Apple-women at <hi>Bil<g ref="char:EOLhyphen"/>linſgate</hi>
+                  <pb n="6" facs="tcp:179288:5"/>ſeldom ſpeak truth, but when they call one-another <hi>Whores</hi> and <hi>Toſſpots.</hi> But there ſeems to be ſuch Confuſion in your Diſcourſe, as in the <hi>Babel</hi>-building: You require one thing, and uſe another; which puts me in mind of thoſe known witty Verſes of <hi>Du Bartus.</hi>
+               </p>
+               <p>
+                  <hi>Bring me, quoth one, a Trowel, quickly quick. He brings him up a Hammer; hew this Brick Another crys, and then he cleaves a Tree: Make faſt this Rope, and then he lets it flee. One calls for Planks, another Mortar lacks; He brings the firſt a Stone, the laſt an Ax.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Hear me then about another thing. Mr. <hi>Williams</hi> and Mr. <hi>A.</hi> inſinuate, <hi>p.</hi> 18, <hi>That Mr.</hi> Lobb <hi>hath been criminally ac<g ref="char:EOLhyphen"/>quainted with</hi> Friend, Fenwick, <hi>and</hi> Char<g ref="char:EOLhyphen"/>nock: He accuſeth the Prefacer of the <hi>Defence of the Report</hi> as a man <hi>diſloyal,</hi> and yet knows not <hi>who he is.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>If Mr. <hi>Lobbe</hi> were guilty, you have ſaid too much in his vin<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tion: if not, too little. You ſhould, in ſhort, have ſaid more, or nothing; unleſs you, as ſome young Conjurer, would raiſe a Spi<g ref="char:EOLhyphen"/>rit you could not allay: Were you a Lawyer, and to plead the Cauſe of a Cly<g ref="char:EOLhyphen"/>ent at this rate, Six-pence Fee would
+<pb n="7" facs="tcp:179288:5"/>be too much by a Groat. Mr. <hi>Lobbe</hi> may be as true to the King and his Cauſe as any man in the Three Kingdoms, for ought I know; but You, Sir, are a woful Compurgator.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I ſay, <hi>It ought to alarm all Mankind, whoſe Misfortune hath brought them within the Circle of Mr.</hi> Williams<hi>'s acquaintance and converſation, to find how precariouſly they hold their Lives, if he, through Ca<g ref="char:EOLhyphen"/>price and Humor, ſhould be diſpleas'd, or but grow jealous, that they pay not a pro<g ref="char:EOLhyphen"/>found Devotion to his Perſon and Opi<g ref="char:EOLhyphen"/>nions.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Oh Brother, ſay no more of him, not ſo much for his ſake (for as you hate him, I do not love him) but for our own: There are many foul Stories of him, I wiſh they had been <hi>true,</hi> but they wanted <hi>Proof,</hi> his Enemies confeſt; and <hi>Truth</hi> too, ſay his Friends.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Say what you will, <hi>His Conſcience, Breeding, and Judgment be of a piece,</hi> p. 19. <hi>and his Language is of alliance with his Birth and Breeding, his Rhetorick is booriſh and clowniſh.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Some that are intimate with him (and no <hi>Neonomians</hi> or <hi>Baxterians,</hi> I aſ<g ref="char:EOLhyphen"/>ſure you) are forced by much obſervation to acknowledge the contrary to the for<g ref="char:EOLhyphen"/>mer
+<pb n="8" facs="tcp:179288:6"/>part of your Charge, and his Wri<g ref="char:EOLhyphen"/>tings juſtifie him againſt the latter part.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>The <hi>Presbyterians are tinctur'd with Republican Principles, and therefore not ſo loyal and zealous for</hi> Monarchy. —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>You cannot but know, where there is one Presbyterian ſo, there are five Con<g ref="char:EOLhyphen"/>gregational Men; but any thing to ſerve a Turn: You once blamed the Presbyterian for not being ſo.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Mr. Williams <hi>alſo,</hi> p. 20, <hi>proſtitu<g ref="char:EOLhyphen"/>ted and debauched the Pulpit by harranguing his Auditors with an Invective againſt K.</hi> James <hi>and the Jeſuits, when his whole work in that place ſhould have been to preach the Goſpel, and not vented a Satyr, or read a Lecture of Politicks</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Did you not ſay, That neither your <hi>Nature,</hi> nor <hi>Education,</hi> nor <hi>Religion</hi> would ſuffer you to be guilty of that fault, for which you cenſure your Adverſary Mr. <hi>A.</hi> and yet you out-do him by ten fold. When treated he an Adverſary at this rate? Thus, according to our Engliſh plain Proverbs, <hi>The Devil reproves Sin, The Kettle calls the Brandice ſmut, Cata<g ref="char:EOLhyphen"/>lina Cathegos;</hi> when Paſſion is up, Reaſon is down; Speak ſoft, ſpeak ſoft, <hi>Treaſon will out.</hi> Is it become an Offence to
+<pb n="9" facs="tcp:179288:6"/>preach againſt King <hi>James,</hi> what man, and the Jeſuites, too? Hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e done, as you, preach'd againſt him, and for him too? Did he blow the Trumpet to raiſe the Nation for King <hi>William,</hi> and againſt King <hi>James,</hi> and after ſo happy a Change, without any juſt Cauſe, againſt King <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> and for King <hi>James?</hi> Did you ne<g ref="char:EOLhyphen"/>ver triumph at the death of the Martyr, and repeat ſuch Verſes as thoſe (I have not the Copy, and therefore may content my ſelf with the ſenſe) on the Thirtieth of <hi>Ja<g ref="char:EOLhyphen"/>nuary?</hi>
+               </p>
+               <q>
+                  <l>See the Sot to Church reels out,</l>
+                  <l>Who now is plaguily devout:</l>
+                  <l>It is the Day in which he fell</l>
+                  <l>Martyr to the Cauſe of Hell:</l>
+                  <l>It is our Saint's Canonization,</l>
+                  <l>Juſtly crown'd with Decollation.</l>
+                  <l>To us of late in wrath were given</l>
+                  <l>Two curſed Tyrants and a Stallion.</l>
+                  <l>Fill the Glaſs with ſparkling Red:</l>
+                  <l>Look, 'twas thus the Tyrant bled;</l>
+                  <l>Thus our Fathers let us ſee</l>
+                  <l>Kings are Fleſh and Blood, as we.</l>
+                  <l>Now may our baniſh'd <hi>Tarquins</hi> Fate</l>
+                  <l>Prove as juſt, but not ſo great:</l>
+                  <pb n="10" facs="tcp:179288:7"/>
+                  <l>May bleſt <hi>Lewis</hi> for old Scores</l>
+                  <l>Turn him p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orly out of doors;</l>
+                  <l>A curſed ſhameful Death attend him,</l>
+                  <l>May a friendly Halter end him, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>Or did you never pleaſe your ſelf with hearing or reciting the Epitaph made by a Boy, on <hi>Ned Hyde?</hi>
+               </p>
+               <q>
+                  <l>Here lies <hi>Ned Hyde,</hi>
+                  </l>
+                  <l>Becauſe he dy'd:</l>
+                  <l>But I had rather</l>
+                  <l>It had been his Father:</l>
+                  <l>Had it been his Siſter,</l>
+                  <l>No one would have miſt her.</l>
+                  <l>Well for the three Nations</l>
+                  <l>Had it been all the Relations, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>How often have you roar'd over ſtrong Liquors the known Verſes on the Birth of the pretended Prince of <hi>Wales,</hi> and the day of Thankſgiving?</p>
+               <q>
+                  <lg>
+                     <l>Two <hi>Toms</hi> and a <hi>Nat</hi>
+                     </l>
+                     <l>In Council ſat</l>
+                     <l>To rigg out a Thankſgiving,</l>
+                     <l>And to make a Prayer</l>
+                     <l>For a thing in the Air,</l>
+                     <l>That's neither dead nor living.</l>
+                     <pb n="11" facs="tcp:179288:7"/>
+                     <l>The Dame in the <hi>Eaſt,</hi>
+                     </l>
+                     <l>As 'tis expreſt,</l>
+                     <l>In her laſt bleſt Epiſtle,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nto our Lady</l>
+                     <l>Bequeath'd a Baby,</l>
+                     <l>With Coral, Bells and Whiſtle.</l>
+                  </lg>
+                  <lg>
+                     <l>For this intent</l>
+                     <l>To her ſhe ſent</l>
+                     <l>Her Diamond-Rings and Bodkin,</l>
+                     <l>To give her leave</l>
+                     <l>For to conceive:</l>
+                     <l>Pray was not this an odd thing?</l>
+                  </lg>
+                  <lg>
+                     <l>Here's a Cup of Ale</l>
+                     <l>To the Prince of <hi>Wale,</hi>
+                     </l>
+                     <l>Tho' ſome are of opinion,</l>
+                     <l>When all is out,</l>
+                     <l>A double Clout</l>
+                     <l>May cover his whole Dominion.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Caeſar</hi> to keep the Laws did plight his troth,</l>
+                     <l>He made his Will his Law to ſave his Oath.</l>
+                  </lg>
+               </q>
+               <pb n="12" facs="tcp:179288:8"/>
+               <p>Did not you talk every where of the Sup<g ref="char:EOLhyphen"/>poſitious Child, which you now ſay was not ſo? And that the Earl of <hi>Eſſex</hi> cut <hi>not his own Throat,</hi> and now ſay <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he did,</hi> and that you invented <hi>that Lye?</hi> Who then can take your Word for any thing? And it is often ſaid, <hi>You will never be quiet till you are hang'd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>My Word will be taken, I am ſure, (without any ones being bound for me) that I ſhall be quiet then, if not before. But however <hi>R.</hi> they ſay, <hi>Marriage and Hanging come by Deſtiny;</hi> and if ſo, you may be hang'd as ſoon as I, <hi>R.</hi> and with the ſame Cord too.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>You know it was often ſaid of <hi>John Lilbourn, If there were but one man in the World, there would be no Quietneſs; for</hi> John <hi>would quarrel with</hi> Lilbourn, <hi>and</hi> Lilbourn <hi>with</hi> John. So it is ſaid of you; but this coſt both dear, for <hi>John</hi> had Four hundred Stripes when whipp'd in <hi>London</hi> Streets, and <hi>Lilbourn</hi> had Four hundred more; between them both Eight hundred: I wiſh you better Luck, Sir. And for your Writings, you know the witty Letters of Mr. <hi>Glanvil</hi> and <hi>Sher<g ref="char:EOLhyphen"/>lock,</hi> in their Account of your <hi>Common<g ref="char:EOLhyphen"/>place-book,</hi> where Mr. <hi>Glanvil</hi> proves, when writing againſt him, you ſtole many of
+<pb n="13" facs="tcp:179288:8"/>your Rhetorical Flowers out of his Books, particularly <hi>the Vanity of Dogmatizing;</hi> and, as he merrily expreſt it, you at the ſame time <hi>pick't his Pocket, and cut his Throat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Let us go on, honeſt <hi>R,</hi> to other matters.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I have no more Honeſty than you, nor never ſhall, whilſt ſo converſant to<g ref="char:EOLhyphen"/>gether.</p>
+               <q>
+                  <g ref="char:V">Ʋ</g>vaque conſpecta livorem ducit ab uva.</q>
+            </sp>
+            <sp>
+               <speaker>F. Mr.</speaker>
+               <p>Alſop, <hi>p.</hi> 22, <hi>lays claim to a Talent Nature hath indiſpos'd him for: The moſt that can be allow'd him is, that he is fit to be a Droll or Buffoon — He can be accounted a Witty man only among little people, that have no Genius or good Reliſh — Among none whoſe excellency of Senſe, and accuracy of Guſt, diſtinguiſhes them from the inſipid and rude Rabble — All that can be allow'd him is, He may ſet up for a</hi> Merry Andrew, <hi>or hire him<g ref="char:EOLhyphen"/>ſelf at a</hi> Bartholomew-Fair. <hi>True Wit,</hi> p. 22, <hi>conſiſts in jnſtneſs of Thoughts — to have Ideas of a matter,</hi> p. 23, <hi>comprehen<g ref="char:EOLhyphen"/>ſive of all that imports and reaches to the utmoſt dimenſions of it, — and the Har<g ref="char:EOLhyphen"/>mony that is among them,</hi> &amp;c.</p>
+            </sp>
+            <pb n="14" facs="tcp:179288:9"/>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Many, almoſt all, acknowledge as once you did, Mr. <hi>Alſop</hi> to be a Wit. I am ſure I did; and, to be plain, to my knowledge ſo did you, when he wrote againſt your Adverſary as well as his; and now he hath croſt you a little, you ſhamefully recall what you have ſaid times without number, and clap (which is worſe) the quite contrary in its place: But, Sir, you rather give us a deſcripti<g ref="char:EOLhyphen"/>on of <hi>Wiſdom</hi> than <hi>Wit;</hi> that is ſeated in the Underſtanding, this in the Fancy: And ſuch a deſcription give you too, that I dare pawn my Credit (if I had any) that every man wants; no meer Man, but the Protoplaſt, had it, or ever will.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Mr. <hi>Alſop</hi> will not allow himſelf to <hi>be a Lunatick, and delirious,</hi> p. 24. I tell him of <hi>Gentlemanly breeding,</hi> and of <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>gentlemanly things</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I pray tell me ſome of Mr. <hi>Alſop</hi>'s Expreſſions, that prove him to be no Wit.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>He ſays, When Mr. <hi>L.</hi> would <hi>ride in triumph over dull Presbyterians, ſome one ſhould have adorn'd his Chariot,</hi> p. 25, and talks of <hi>S. L.</hi> that is, <hi>Slanderous Libel<g ref="char:EOLhyphen"/>ler;</hi> and that <hi>a Libel is a Lye with a Bell at the end of it.</hi>
+               </p>
+            </sp>
+            <pb n="15" facs="tcp:179288:9"/>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What ails all this?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>He talks alſo of Ordures, <hi>p.</hi> 27.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>So do you in the ſame Book; and what if all be not of a piece? Was <hi>Mer<g ref="char:EOLhyphen"/>vil</hi> a Wit? Was <hi>Etchard</hi> another? Both ſtumbled now and then, as well as Mr. <hi>Alſop,</hi> tho' it may be not ſo unhappily as he, on the Threſhold of a particular Book about <hi>the Shoehorn.</hi> I know, Sir, you love amorous Songs, is not this Wit to a Sweet-heart?</p>
+               <q>
+                  <l>When firſt I ſaw thee thou didſt ſweetly play</l>
+                  <l>The gentle Thief, and ſtolſt my heart away;</l>
+                  <l>Send me it back again, or ſend thine own,</l>
+                  <l>For two's too much for one, ſince I have none.</l>
+                  <l>But if thou wilt not, I will ſay thou art</l>
+                  <l>A ſweet-fac'd Creature with a double heart.</l>
+               </q>
+               <p>Or that of Dr. <hi>Wilde</hi> to <hi>John Croſſe,</hi> when ſitting againſt him:</p>
+               <q>
+                  <lg>
+                     <l>I doubt <hi>John Croſs</hi> that thou haſt wed thy wo,</l>
+                     <l>Thy Wife is <hi>Croſs,</hi> but thou haſt made her ſo.</l>
+                  </lg>
+                  <p>He anſwer'd:</p>
+                  <lg>
+                     <l>My wife is croſs, 'tis true, but ſometimes mild;</l>
+                     <l>But it's well known thy wife is always <hi>Wild.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <pb n="16" facs="tcp:179288:10"/>
+               <p>Were the Replies to K. <hi>C.</hi> (<hi>You have the Valour of your Grandfather, the Policy of your Father, the Honeſty of your Mother, and Religion of your Brother</hi>) Wit? Was <hi>Here is</hi> Lauder dale <hi>the pretty, &amp;c.</hi> he that ſhould ſay No, one would think he ſhould loſe his own Wits; if Yes, anſwered they your deſcription of Wit?</p>
+               <q>Mars ad opus Veneris, Martis ad arma Venus;</q>
+               <p>and many other things, ſaid of K. <hi>C.</hi> the 2d, (and by him too) but no end here.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Say what you will (for ſo will I) I ſay, Mr. <hi>Alſop is equally booriſh and in<g ref="char:EOLhyphen"/>pure:</hi> All he ſays <hi>is wholly impertinent,</hi> or elſe <hi>clowniſh,</hi> or <hi>downright Ribaldry;</hi> and <hi>I bluſh to go on repeating</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I pray tell me ſome of thoſe Imper<g ref="char:EOLhyphen"/>tinencies.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>When he chargeth Mr. <hi>Lobbe</hi> to have miſrepreſented him, ſee how he phraſeth it: By <hi>his extracting water out of a Flint, and by his being in poſſeſſion of an Engine that can find Draining-work in</hi> Salisbury-Plain, <hi>p.</hi> 32.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What then, is not all this well enough?</p>
+            </sp>
+            <pb n="17" facs="tcp:179288:10"/>
+            <sp>
+               <speaker>F.</speaker>
+               <p>All <hi>his wit is the wit of Coblers and Tinkers, rather than either of a Freſh man in the <g ref="char:V">Ʋ</g>niverſity, or of a common Tradeſ<g ref="char:EOLhyphen"/>man in the City — His beſt Turn of Thoughts would hardly be tolerable in a Farce, but would by no means be allowed in a Comedy,</hi> p. 35. <hi>He ought never to venture into the light, for fear of being booted at.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I dare be bold to ſay, you need no Anſwer from me, nor any Man, to all this; you know, as well as we, the contrary; you do not, you cannot believe as you ſay, and therefore, no doubt, you will be rec<g ref="char:EOLhyphen"/>koned to Poſterity; as the once <hi>Grand Defamer of the world,</hi> and that when wri<g ref="char:EOLhyphen"/>ting againſt ſuch. But, Sir, you ſay Mr. <hi>Alſop</hi> ſhould <hi>with meekneſs inſtruct them that oppoſe themſelves,</hi> 2 Tim. 2. And ſhould not you? Yet you preſently add, Mr. <hi>A.</hi> is <hi>a man of a</hi> Luciferian <hi>pride and hatred;</hi> and, <hi>p.</hi> 35, <hi>He gives occaſion to think he never acts a part in preaching in reality and ſeriouſly, but to gain a liveli<g ref="char:EOLhyphen"/>hood.</hi> No more therefore play with Scri<g ref="char:EOLhyphen"/>pture, the thing you charge your Adver<g ref="char:EOLhyphen"/>ſary with: Is <hi>this meekneſs?</hi> Is this ac<g ref="char:EOLhyphen"/>cording to your Promiſe, <hi>All ſhould be clean?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Hold thy Tongue, I ſay, it is pitty
+<pb n="18" facs="tcp:179288:11"/>Dr. <hi>Erchard</hi> is <hi>dead, there being more ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ter and occaſion given in two Pamphlets o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Mr. Alſop, <hi>for writing Volumes of the Con<g ref="char:EOLhyphen"/>tempt of the Clergy, than that Author could furniſh his Adverſary with ſome years ſince.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What! then the Story of Father <hi>Slipſtocking!</hi> then the Doctrin on 4 <hi>Mal.</hi> 2. <hi>But unto you that fear my name ſhall the ſun of righteouſneſs ariſe, with healing in his wings:</hi> That <hi>the coming of Chriſt into the World was a Zodiacal mercy, yea, a mercy truly Zodiacal:</hi> That <hi>Chriſt paſt thro' th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> twelve Signs of the Zodiack,</hi> Aries, Taurus, <hi>&amp;c.</hi> And in the Application, Ungodly Men are <hi>Artick</hi> and <hi>Antartick</hi> Reprobates. Wrote Mr. <hi>Alſop,</hi> or talk'd he, at ſuch a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rate?</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I ſay, <hi>p.</hi> 37, <hi>If the leaſt corrupt com<g ref="char:EOLhyphen"/>munication</hi> (i. e. <hi>naſty or unclean, as the word</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>doth import</hi>) <hi>is forbidden every Chri<g ref="char:EOLhyphen"/>ſtian,</hi> in his divertive Diſcourſe, 4 <hi>Epheſ.</hi> 29, <hi>&amp;c.</hi> he compares Chriſt's entring into Bond with us to the <hi>Pacta Conventa</hi> of <hi>Po<g ref="char:EOLhyphen"/>land,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Stop, I care to hear no more, it is worſe than bad: I own a Commutation of Perſons as a good Phraſe, tho' not a neceſ<g ref="char:EOLhyphen"/>ſary one.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Mr. <hi>Alſop</hi> ſays, <hi>He would not for a Groat run the hazard of falling into the In<g ref="char:EOLhyphen"/>fernal
+<pb n="19" facs="tcp:179288:11"/>Pit: So he turns Hell into a Jeſt, which his beſt Friends may call <g ref="char:V">Ʋ</g>npardona ble Levity. Is it not worth more than the expence of a Groat to avoid Damnation? Would he not disburſe more to purchaſe Hea<g ref="char:EOLhyphen"/>ven than he hath fix'd the price of eſcaping Hell?</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Oh, for Shame! you would make <hi>quidlibet ex quolibet;</hi> I know your Heart in this thing; <hi>He thought no danger in the Cloak.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>
+                  <hi>Whoever juſtifie and excuſe Mr.</hi> Al<g ref="char:EOLhyphen"/>ſop, <hi>they are not only a dull and inſipid ſort of People, but have neither Grace nor Mo<g ref="char:EOLhyphen"/>deſty,</hi> p. 40.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>No man that knows you, thinks you overladen with either, by your words or actings.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I ſay, <hi>All the Presbyterians who meet at St.</hi> Helens, <hi>and their Auditors, may con<g ref="char:EOLhyphen"/>ſider what Character they will unavoidably come under, unleſs they bear ſome publick teſtimony againſt Mr.</hi> A<hi>'s Buffoonry. The</hi> Odium Theologicum, <hi>as is obſerv'd, is grea<g ref="char:EOLhyphen"/>ter than other mens,</hi> p. 44. I ſay, <hi>p.</hi> 45, <hi>This is the work of the Coward, the Knave, and the Mad-man. Mr.</hi> A<hi>'s Forehead is Braſs,</hi> p. 46, <hi>double gilt, his Conſcience is callous and dedolent.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What! you run down Communities.
+<pb n="20" facs="tcp:179288:12"/>They will tell you, the <hi>Independents</hi> a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as much bound to appear againſt you <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they againſt him, for prodigious Slande<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Diaboliſms, for a Mouth as an op<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Sepulchre, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Mr. <hi>A. hath uſurped the Throne <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Omniſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ient, by telling mens Thoughts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>And did not you, by ſaying, Mr. <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> p.</hi> 52, <hi>hath done contrary to the practic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dictamen of his own <g ref="char:V">Ʋ</g>nderſtanding?</hi> H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is, <hi>p.</hi> 48, <hi>deliriius,</hi> and <hi>raving,</hi> — bein<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>one mind in the Intervals of his Paro<g ref="char:EOLhyphen"/>xiſms,</hi> and <hi>of another in his fits of diſtra<g ref="char:EOLhyphen"/>ction.</hi> Such words do you no kindneſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I pray tell me <hi>F,</hi> how came your late Boo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be ſo pleaſing to ſome <hi>Antinomians</hi> an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Criſpians?</hi> Is there any thing in it to fa<g ref="char:EOLhyphen"/>vour them?</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>They are generally ſuch Childiſh me<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that they had need learn a Catechiſm: the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> think every thing is for them that is againſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>Baxte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> or Mr. <hi>Williams.</hi> I comment in the Book Mr. <hi>Lobbe,</hi> and ſay, <hi>None op<g ref="char:EOLhyphen"/>poſeth the foppiſh, novel, Antievangelica<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tenets of the</hi> Antinomians <hi>more than he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> And I cenſure Dr. <hi>Criſp</hi> by Name.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Mr. <hi>Lobbe</hi> not only deſerves Com<g ref="char:EOLhyphen"/>mendation, but hath it, for his Plainneſs, Honeſty, and Fidelity in this reſpect. He chargeth Dr. <hi>Criſp</hi>'s Doctrine as <hi>Blaſphe<g ref="char:EOLhyphen"/>mous,
+<pb n="21" facs="tcp:179288:12"/>&amp;c.</hi> when too many <hi>Independents,</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir ſhame, have their Mouths muzzled.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>
+                  <hi>I commend</hi> Mr. Humphreys <hi>the</hi> Bax<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erian, <hi>tho' corrupt, as a man of meekneſs, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umility, and charity to them that diſſent; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot like</hi> Mr. Williams.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I once received a Letter from this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an of Modeſty and Charity, in which I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound him one of the moſt immodeſt and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncharitable men I ever met with, when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave found the Character you give of him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o anſwer Mr. <hi>Williams.</hi> He wrote me, <hi>He could hardly in Conſcience pray for me, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elieving God would never forgive me, un<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſs I repented writing againſt</hi> Mr. Baxter. To whom I replied, <hi>Is this the Language <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f you men of Love, <g ref="char:V">Ʋ</g>nity, Peace, and Con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ord?</hi> That if he could <hi>hardly in Conſcience <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ray for me, I could not but in Conſcience <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ray for him.</hi> This man of Charity to <hi>Ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ometans,</hi> believing their Salvation with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut Faith in Chriſt, and living and dying, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wning an Impoſtor, and never repent of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his, could not have ſo much Charity for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, as to hope God might put this thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the ſcore of the Sins of Ignorance. This <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an of Modeſty and Charity hath been an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Agent all his days. When it pleaſed God to work that Glorious Reformation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the <hi>Aſſembly of Divines and Parliament,</hi>
+                  <pb n="22" facs="tcp:179288:13"/>to caſt out from the Lord's Table ungod<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wicked men, this man of Modeſty com<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> out and trigs them with his <hi>Free Admiſſio<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> He ſtops not here, but flies in the Face <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our firſt Reformers, and that not in a ſma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> point about Diſcipline, but in a weight <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> point about Doctrine. He diſowns th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctrine of <hi>Juſtification by imputed Rig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>teouſneſs,</hi> under the very notion as <hi>Prot<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtant;</hi> which neither his Maſter nor Eld<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Brethren had the Face to do. He ſtops n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> here, but contrary to the Papiſts as well <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our ſelves, aſſerts the Salvation of Heathe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the Light of Nature, without Faith i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſt, and knowledge of his Word. Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> man, ſo much applauded for Modeſty an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Charity, and that in oppoſition to M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Williams,</hi> I ſpeak my Heart, by his Let<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to me, and by the Account I can get o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by ſome others, is a conceited uncharitab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Opinioniſt.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>This Mr. <hi>Williams</hi> you <hi>talk of ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> neither ſpeak nor write Syntaxical Latin, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> he can underſtand a common Roman Autho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> p. 55. <hi>And I can ſhew</hi> Mr. Alſop <hi>too to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a Dunce in Philology; he hath neithe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> grace nor good manners,</hi> p. 72. <hi>The Beli<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and Doctrine of the man are not to be take<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on his Ravings, on his Fits of Lunacy an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Diſtraction, but by his</hi> Antiſozzo, <hi>which h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="23" facs="tcp:179288:13"/>wrote before he became delirious, or under the decay of the</hi> Moon, <hi>or in his</hi> Lucida, <hi>p.</hi> 75. <hi>Only it will be neceſſary for his Au<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tors carefully to remark how the Tide flows 01 at</hi> London-bridge, <hi>and</hi> Weſtminſter-ſtairs, <hi>that they may thereby calculate at what ſea<g ref="char:EOLhyphen"/>ſons they may give Credit to the Doctrine of their Paſtor.</hi> Yet, I ſay, after all, <hi>p.</hi> 81, <hi>I do freely acknowledge, that there is no man of more Latitude, as to Principles, or mea<g ref="char:EOLhyphen"/>ſure of Charity, Good-nature, or Civil man<g ref="char:EOLhyphen"/>ners, than I deſire to be. Nay, I take plea<g ref="char:EOLhyphen"/>ſure,</hi> p. 81, <hi>in my ſelf, to find I am by Edu<g ref="char:EOLhyphen"/>cation, Principles, and Temper carried into the greateſt Averſation imaginable againſt them who are given to — Calumny,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I muſt deal plainly with you now; is this your Meekneſs and Civility? you have contrary to your repeated Proteſtations and Promiſes outdone your Adverſary by a hundred fold. Say next, that Mr. <hi>Williams</hi> is <hi>no Man,</hi> but an <hi>Elephant;</hi> and, that Mr. <hi>Alſop</hi> is a <hi>Horſe:</hi> — All will ſay, Ne<g ref="char:EOLhyphen"/>ver were there more impudent Untruths told the World: no wonder hardly can I find the man that cares to own or juſtifie the Book.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I call Mr. <hi>Alſop, p.</hi> 96, <hi>This Holder<g ref="char:EOLhyphen"/>forth</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Was not this a term invented by the <hi>Atheiſtical</hi> and <hi>Prophane,</hi> and therefore
+<pb n="24" facs="tcp:179288:14"/>more to be abhorr'd on this account tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Story of the <hi>Cloak</hi> ſo invented, as your ſay; againſt <hi>D. B?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I call him alſo <hi>Weſtminſter Parſon, p.</hi> 97, and ſay, <hi>He can be at one time Fool, at another time Knave,</hi> p. 104.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>This will pleaſe no ſober <hi>Independent</hi> ſure, but only ſome little <hi>Criſpianiſh</hi> ſort of them.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>They ſure will never be pleas'd by me, for I ſay, as the <hi>Atheiſts Heaven hath no God in it;</hi> the <hi>Socinians Hell hath no Devil in it;</hi> ſo the <hi>Antinomians Juſtification hath no Faith in it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>That too great a Load may not lie on Mr. <hi>Alſop,</hi> I muſt confeſs, it was his great unhappineſs that he ſhould fall on a miſtake about <hi>D. B.</hi> where he might have made his choice. I am not of their mind, who ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Had all been true, it ought to have been co<g ref="char:EOLhyphen"/>ver'd;</hi> No, ſay I, but openly proteſted a<g ref="char:EOLhyphen"/>gainſt with the greateſt Zeal and Indigna<g ref="char:EOLhyphen"/>tion imaginable. Do men think they are on Stages when in Pulpits? Every thing <hi>Thea<g ref="char:EOLhyphen"/>trical</hi> ſhould be baniſh'd thence. Our com<g ref="char:EOLhyphen"/>mon Cauſe of <hi>Nonconformity</hi> throughout all <hi>England</hi> ſuffers (and that not a little) by this Theological Mountebank. I never heard him but once, and then he took up the Hour<g ref="char:EOLhyphen"/>glaſs, and held it forth, raving like a mad<g ref="char:EOLhyphen"/>man, <hi>Look here — Even ſo</hi>—I have heard from
+<pb n="25" facs="tcp:179288:14"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> worthy Divine (now dead) who was his Au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tor, woful Pulpit-ſtuff of his. His firſt Book<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Meditations</hi> is intolerable, unworthy impudent <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſages about God — <hi>World hang thee, and all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at love thee,</hi> &amp;c. Yet a Preface is there before <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Book, with an Epiſtle of a Friend of his, to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, who magnifies him (as he modeſtly prints <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) for his Ingenuity greater than that of his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ethren. I know whatever Zeal he pretends to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Nonconformity Purity of Worſhip, he was about to conform a little before K. <hi>James</hi>'s In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lgence came out. How well antick Tricks, Ceremonies, and a Liturgy had been matcht to<g ref="char:EOLhyphen"/>gether! would others had had this Pedantick, Self-admirer, and Villifier (notorious Villifier) of Miniſters to the injudicious Multitude, ra<g ref="char:EOLhyphen"/>ther than we. Muſt ſuch a man be careſs'd, and a man of Mr. <hi>Williams</hi>'s parts, gravity, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preaching, be poſtpon'd to a <hi>Jack Puddin!</hi> I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, it is well known Mr. <hi>Williams</hi>'s natural parts are to admiration, and his acquir'd parts above contempt. <hi>One ounce of Mother-wit is worth a pound of Clergy,</hi> is a common and true Proverb.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I cenſure Mr. <hi>Alſop</hi> for talking of <hi>the ſea<g ref="char:EOLhyphen"/>ſonable death of two known</hi> Antinomians (Mr. <hi>Ma<g ref="char:EOLhyphen"/>thers</hi> and Mr. <hi>Cole</hi>) and ſay, <hi>p.</hi> 119, <hi>Mr.</hi> Alſop <hi>can never hope to dye the death of the righteous, nor to deſerve the burial of a man; he muſt ex<g ref="char:EOLhyphen"/>pect to depart under the Infamy (if he eſcape the Horror) of the wicked, and to have his remem<g ref="char:EOLhyphen"/>brance perpetuated by ſuch an Epitaph as might
+<pb facs="tcp:179288:15"/>be written upon a Tyger, or a Bear</hi> — M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>ſop,</hi> p. 22, <hi>a little pitiful Tool himſelf, t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> others ſo too</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What mean theſe Heats, theſe preter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ral Heats, Had the Charge been true! b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> meant no more, than that their death was ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nable for Mr. <hi>Lobb,</hi> who, as he imagin'd, (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I think without cauſe) took liberty to exp<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> himſelf more like an <hi>Anti-antinomian</hi> than <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> durſt to do had they been alive. Many wor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Congregational men bewail'd their too gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Propenſities to ſome of <hi>Criſp</hi>'s mad Notions.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I blame Mr. <hi>Alſop</hi> for making Mr. <hi>Ho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Trimmer,</hi> that is, <hi>a Hypocrite, and a Diſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bler, and one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho guides himſelf in his politi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and moral conduct by no other Principles, ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> by thoſe of Worldly Safety, and Secular Intere<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> This is equivalent to Rogue and Raſcal,</hi> p. 10 <hi>And thus is he brought forth as a Knave in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> view of the world,</hi> p. 108.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>You cannot in your Conſcience believ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mr. <hi>Alſop</hi> intended any ſuch thing. You kno<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> how many Miniſters talk of Mr. <hi>H.</hi> (as well a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hearers) as a kind of <hi>Temporizer,</hi> and think h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath not at laſt imitated Gentlewomen by kir<g ref="char:EOLhyphen"/>ching ſo often in the Pulpit, with his Hands on his Belly, (then on one ſide, then on t'other) for nothing: tho' no doubt they are to blame who talk too much of this; and therefore re<g ref="char:EOLhyphen"/>member, Mr. <hi>Alſop</hi> hath great company, and good too, in his Cenſure, tho it may be all to blame.</p>
+            </sp>
+            <pb n="27" facs="tcp:179288:15"/>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I ſay, <hi>Mr.</hi> Daniel Burgis <hi>is above Mr.</hi> Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>and Mr.</hi> Williams, <hi>in <g ref="char:V">Ʋ</g>prightneſs and In<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Compariſons, they ſay, are odious, and I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſure this is ſo; and the worſe, becauſe re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te, exceeding remote from Truth.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Well <hi>R,</hi> believe me, <hi>I have my Thoughts <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tecedent Government, as well as the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>terior Examination and Cenſure of my reaſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Tho' we have your word for it, no man <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll or can believe you.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Say what you will, <hi>p.</hi> 122, <hi>I have done this <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rk with the manners of a Gentleman</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Some will ſay, (whom I cannot confute) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith the rudeneſs of a Tinker.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>moſt of the Salt and Pepper, as well <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Vinegar, which this work would have born, are <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> till the next encounter with Mr.</hi> Alſop, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>he throw himſelf in my way again</hi> — Mr. Alſop <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Presbyterian Preacher,</hi> ſay I, <hi>hath outdone the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſt libertine and licentious among the Poets in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll that is unmannerly, rude, clownish, detra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive and impious.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>You muſt then f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch your <hi>Salt, Pepper,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Vinegar</hi> out of ſome Quackers writing <hi>George <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> will help you to<g ref="char:punc">▪</g> thou <hi>Conjurer,</hi> thou <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itch,</hi> thou <hi>Devil,</hi> &amp;c. or Mr. <hi>Penn,</hi> or <hi>Sam. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isher,</hi> thou <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bub the Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce of Devils.</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>I confeſs, in your Book are fine Strokes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood Apothegins, but the Sentences are too nu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erous, and of the ſame import. Here's a Tree <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull of large Leaves, but little Fruit; much
+<pb n="28" facs="tcp:179288:16"/>Sawce, but little Meat; many phraſes, but li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> matter: the ſubſtance of all might have bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> two Sheets, but you have done the ſame thi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>ad nauſeam,</hi> and yet promiſe as to your <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (and counſel us too) âgainſt hard words <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> provoking reflections. Thus, when I have b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> reading the Book, I have imagin'd my ſelf befo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a drunken man, who in the midſt of his C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> had heated his Noſe, and unhinged his Tong <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and yet before and after every Cup would re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Lecture of Sobriety and Temperance, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> claim againſt Drunkenneſs, till he either f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> aſleep, or dropt under the Board by his exceſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> drinking. Suppoſe he ſhould ſay, <hi>Oh my friend I deſire you all to be temperate — Drunkemi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> metamorphoſeth a man into a be aſt.</hi> — Then ta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> off the other large Cup or Glaſs, — then wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Eyes ſtar'd, he goes on with pious Counſe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Be not drunk with wine, wherein is exceſs, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> filled with the ſpirit. — I am glad, Sirs, my Te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>per, my Education, my Religion will not perm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> me to drink immoderately.</hi> Off goes the othe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cup or Glaſs; at laſt he tells them who neve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were intemperate as he, <hi>O ye drunken Dog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> learn to ſpeak ſoberly, as I do — You Rogues an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> drunken Devils, act ſoberly, as I do,</hi> &amp;c. So, Sin have you written and ſpoken, and therefore <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> am reſolved to reaſon with you no more, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to hear one word you ſay.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Then I will hear thee <hi>R;</hi> what have you to ſay to me, or what Counſel to give me?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Void no more Books, you have too man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:179288:16"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f late, which give a woful hogo; then <hi>for a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>auſe,</hi> and then <hi>againſt it:</hi> get an <hi>honeſt Heart</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd beware of a <hi>Sceptical Head:</hi> put off the Mask of a Layman, by which you put a Trick <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the World by Niceties: learn ſome temper <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd moderation in a Controverſie; theſe are <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings you once pleaded for, and ſeem'd to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractiſe. I believe it to be a great Error to aſſert the Suffering of Chriſt not to be <hi>properly</hi> or <hi>formally,</hi> but <hi>materially</hi> or <hi>analogically</hi> call'd Puniſhments; or to ſay man's Sin was not the <hi>Cauſa meritoria,</hi> but <hi>pro cauſa,</hi> or <hi>Occaſion</hi> of Chriſt's Death and Sufferings: that let ſome men do what they will to diſtinguiſh Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> into <hi>Orthodoxneſs,</hi> no man ſure can into <hi>Pru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dence.</hi> It muſt be fatal to lay aſide terms uſed <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Orthodox in a Controverſie, and to take up with ſuch as are uſed by the worſt of Here<g ref="char:EOLhyphen"/>ticks, tho' men ſay, He meant not this, but meant that — I dare not ſay with Dr. <hi>Good<g ref="char:EOLhyphen"/>win,</hi> that <hi>I greatly doubt Mr.</hi> Baxter<hi>'s Conver<g ref="char:EOLhyphen"/>ſion;</hi> nor with Mr. <hi>Herle,</hi> that <hi>it had been good for the Church of God if he had never been born;</hi> nor with Mr. <hi>Capel,</hi> that <hi>his Parents might re<g ref="char:EOLhyphen"/>pent that ever they ſent him to School:</hi> nor will I ſay what the famous <hi>Jaſper Hicks</hi> in the Weſt ſaid of him; yet I cannot but bewail the Errors he hath ſet on foot. I think (to be plain) Mr. <hi>Lobb</hi> hath granted the <hi>Baxterians</hi> too much, by rejecting any ſuch gloſs on 2 <hi>Gen.</hi> 17, <hi>Thou ſhalt dye, or thy Surety:</hi> For is that Sentence definitive, or comminatory only? if a Threat,
+<pb n="30" facs="tcp:179288:17"/>that might be revoked, like that of 3 <hi>Jon. Within forty days</hi> Nineveh <hi>ſhall be deſtroy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> or to <hi>Hezekiah, Set thy houſe in order, for t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhalt dye, and not live:</hi> if ſo, then after man <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſin'd, God could have pardoned him witho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſatisfaction, or without giving a Redeemer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the World, will not this (too much) ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt to die in vain? What God might ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> done antecedently to this Sentence, I will n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſay; and I think it was a bold Queſtion for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Owen</hi> and Mr. <hi>Gilbert,</hi> but conſequently on the he could not. If the Sentence were definitiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and being once gone out of the mouth of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not be recalled: then if not <hi>thou or th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Surety</hi> be intended, I cannot ſee, but that a S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>viour is precluded: God could not be true <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his word, if ever a Saviour died for man, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not man himſelf: with me there is no rem<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> the immediate Offender, the actual Tranſgr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſor and his Deſcendents muſt die. But I wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not launch out here.</p>
+               <p>Mr. <hi>Alſop,</hi> Mr. <hi>Williams,</hi> and Mr. <hi>Lobb</hi> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all three men of great worth, and there is n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neceſſity in a Controverſie to magnifie one and depretiate another. Mr. <hi>Lobb,</hi> when young<g ref="char:punc">▪</g> was an <hi>Old Boy,</hi> one of great learning and deep thoughts, and therefore it was no ſmall Error to repreſent him to the World as an unfit man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for an Argument or a Diſputation. I have hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>Williams</hi> laugh at them that have cenſure<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>Lobb</hi>'s preaching, and heard him ſay, <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> was a great Preacher;</hi> and I think theſe two
+<pb n="31" facs="tcp:179288:17"/>might ſoon be good friends, were it not for ill Agents between both.</p>
+               <p>They both have written well againſt the <hi>Criſpians</hi> or <hi>Antinomians,</hi> the <hi>impenitent Belie<g ref="char:EOLhyphen"/>vers,</hi> as I often call them, of this Age, who make <hi>Faith Aſſurance,</hi> and this to be had without any Grace or Change in man, fetching its <hi>Ranges in the Regions of Love,</hi> as I heard a D. lately to preach, and ſo this Faith brings down Sanctifi<g ref="char:EOLhyphen"/>cation. Now I would fain know, whether this Faith be a living Faith, or a dead Faith; if a li<g ref="char:EOLhyphen"/>ving Faith, whether this be not a part of San<g ref="char:EOLhyphen"/>ctification; if a dead Faith, whether there be any thing in God's Promiſe, or in the nature of the thing it ſelf, that this dead Faith ſhould bring down Sanctification. We are often ask'd, would we not adviſe ungodly men to come to Chriſt?</p>
+               <p n="1">1. If they mean by coming to Chriſt a belie<g ref="char:EOLhyphen"/>ving Chriſt is the Author and Finiſher of every Grace, none deny it; here we direct them.</p>
+               <p n="2">2. But if they mean a perſwaſion they belong to Chriſt, tho' they have not repented, this we deny; Repentance, we know, among thoſe men is nothing; they keep the Name, and make it as <hi>Faith,</hi> but part with the Thing, <hi>Compunction,</hi> and <hi>Sadneſs,</hi> and <hi>Heart-rending.</hi> When <hi>Peter</hi> ſaw three thouſand prickt to the heart, and they askt him and the reſt of the Apoſtles, <hi>men and brethren, what ſhall we do?</hi> he ſaid unto them, <hi>Repent.</hi> Some would think the Anſwer wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more legal than the Queſtion: What! bi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> noſe prickt to the heart repent! Yes, and things
+<pb n="32" facs="tcp:179288:18"/>nough. They ask us, How will we bid me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come to Chriſt? I anſwer, in his way, and af<g ref="char:EOLhyphen"/>ter his manner, <hi>Mar.</hi> 28. <hi>Come unto me you tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> labour, and are heavy laden.</hi> 55 Iſa. 1, <hi>Ho, eve<g ref="char:EOLhyphen"/>ry one that thirſteth, come ye to the waters: R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pent, the Kingdom of Heaven is at hand,</hi> wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the preaching of Chriſt, his Forerunner and his Followers. Repentance and Faith is the Scri<g ref="char:EOLhyphen"/>pture-method and order, 20 <hi>Acts</hi> 21. If Faith be ſometimes mentioned without Repentance<g ref="char:punc">▪</g> it ſuppoſeth it; as when Repentance is men<g ref="char:EOLhyphen"/>tioned without Faith it intends it.</p>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <p>Alas <hi>R.</hi> you talk as if you were preaching to the Author of <hi>Juſtification on Satisfaction. The Intereſt of Reaſon in matters of Religion,</hi> &amp;c<g ref="char:punc">▪</g> when I have done with thoſe things, and am the: Author of a Book wherein K. <hi>W.</hi> is charg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with having Teſtimonials by him at <hi>Kenſington,</hi> of his being reconcil'd to the Church of <hi>Rome,</hi> and the late Book againſt Mr. <hi>Alſop,</hi> now diſ<g ref="char:EOLhyphen"/>courſed of. As for Religion, I trouble not my ſelf about it, but to ſerve a <hi>Turn.</hi> I am of <hi>Glanvil</hi>'s mind in the Vanity of <hi>Dogmatizing,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or what his Friend ſays before,</p>
+               <q>
+                  <l>There is no demonſtration,</l>
+                  <l>But only thine, which ſhews there's none.</l>
+               </q>
+               <p>You know the two <hi>Reynolds</hi> and <hi>D. Allebaſters</hi> ingenious Verſes,</p>
+               <p>
+                  <hi>Concurrere pares, &amp; cecidere pares,</hi> &amp;c. I will never trouble my Head or Heart abouts <hi>was</hi> did Mr. <hi>K.</hi> of <hi>T.</hi> College in <hi>Cambridge,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leful Verſes I have heard coming from <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cut <hi>his own Throat — From</hi>
+               </p>
+               <pb n="33" facs="tcp:179288:18"/>
+               <q>
+                  <l>From Heaven, as a Scourge of Pride,</l>
+                  <l>All Deciſiion is deny'd, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>The burden of the whole was,
+<q>
+                     <l>Weep Eyes, ſigh Soul, and Body pine,</l>
+                     <l>Was ever Sorrow like to mine?</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>All that can be prov'd from hence is, that we ſhould lie humbly at the Feet of God for Direction, carry it charitably towards our Bre<g ref="char:EOLhyphen"/>thren for tolerable Errors, and ſearch our heart whether there be not ſome beloved Luſt, which may make that Holy Spirit to withdraw its Ir<g ref="char:EOLhyphen"/>radiations or Conſolations. But on this, to ſit down with the Drunkard, to be partaker with 01 the Adulterer, to rap out an Oath ſometimes to comport with the company, will be Bitter<g ref="char:EOLhyphen"/>neſs in the latter end. You know, Friend <hi>F.</hi> that I do many thouſands of times reprove and counſel you, when no one is preſent but you and I: at Bed, at Board, in Cloſet, at home and a<g ref="char:EOLhyphen"/>broad, I many thouſands of times ring a woful <hi>Pealin your Ears;</hi> you will not hear, but drown all Convictions in your Cups with a wicked Generation —</p>
+               <p>And whereas you ſo much cenſure Mr <hi>Alſop,</hi> for being ſo jocular, condemn only the Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs. I remember I have heard what Mr. <hi>Capel</hi> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud to, one that reproved him for Jeſts, <hi>Repartees</hi> for 2 or 3 hours together, <hi>Sir, this is my Phyſick for the Diſtempers I carry about me.</hi> — I grant the Remedy may be (and ſometimes is) worſe than the Diſeaſe, when unſeaſonable for time, and exceſſive for uſe, but to damn men for thoſe
+<pb n="34" facs="tcp:179288:19"/>things, and ſay, they <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e no Grace,</hi> is a ſowre humour much worſe than Levity. Good Mr. <hi>Showers</hi> lately, in a well ſtudied Sermon at <hi>Sal<g ref="char:EOLhyphen"/>ters-hall,</hi> greatly bewail'd our late Diviſions, as hardning the prophane, ſadning the righteous, putting back the well inclin'd, ſpoiling even ci<g ref="char:EOLhyphen"/>vil converſation, <hi>&amp;c.</hi> Sir, I deſire you (deſire your Friends too) not to lie out of ſight when you write Books, let the Accuſed know, one way or other, who the Accuſers are. Mr. <hi>Lobb,</hi> Mr. <hi>Williams,</hi> Mr. <hi>Alſop,</hi> are known to be the Authors of their <hi>Books,</hi> but as for the little <hi>ſnea<g ref="char:EOLhyphen"/>king <g ref="char:V">Ʋ</g>nion Hiſtorian,</hi> and the <hi>Socks and Buskin<g ref="char:EOLhyphen"/>man, ſome can but conjecture, others not that.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>IF any think my appearing once again after an intended Silence ſeems contrary to my once intention, let them remember what made <hi>Atys</hi> dumb (all his days ſo) to cry out.</p>
+            <p>I declare my ſelf to be of Mr. <hi>Lobb</hi>'s Opinion in our Controverſies, who writes like a Man, like a Scholar, like a Gentleman, like a Chri<g ref="char:EOLhyphen"/>ſtian, and like a Divine. Yet as zealous an <hi>An<g ref="char:EOLhyphen"/>ti-Baxterian</hi> as I am, I would not be ſuch a mad one, as to write or ſpeak at this rate, as doth our Author.</p>
+            <p>And of all men, I have leaſt reaſon to appear for Mr. <hi>Alſop;</hi> for when I was, <hi>Bartholomew</hi> laſt was twelvemonth, ſilenc d by the <hi>Baxteri<g ref="char:EOLhyphen"/>ans,</hi> (and continue ever ſince under Suſpenſion) that I muſt not come into their Pulpit, unleſs I
+<pb n="35" facs="tcp:179288:19"/>recall my <hi>Vindi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iae,</hi> (which will be <hi>ad Graecas Calendas</hi>) Mr. <hi>Alſop</hi> at that time (if Fame be true) when I had preacht a <hi>Morning Lecture,</hi> (and that in <hi>Mr. G</hi> — 's <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eting</hi>) ſaid, <hi>That if ever I preacht there again, he would never come among them more.</hi> My Intereſt would lead me one way, my Conſcience doth another, Honeſty will reward itſelf. When I ſaw the foul-dea<g ref="char:EOLhyphen"/>ling of many <hi>Anti-Baxterians</hi> againſt Mr. <hi>Williams,</hi> (who would n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver tell us to this day how far they owned Mr. <hi>Williams</hi>'s <hi>Goſpel Truth ſtated and vindi<g ref="char:EOLhyphen"/>cated</hi> againſt Dr. <hi>Criſp,</hi> but make a noiſe againſt it like little <hi>Criſpians</hi>) it gave me the curioſity to en<g ref="char:EOLhyphen"/>quire, whether that Leaven was not gotten amongſt ſome of thoſe Defamers.</p>
+            <p>I am in thoſe circumſtances in the World, that I value not what either <hi>Antinomians</hi> or <hi>Neonomians</hi> can do, between whom the old Proteſtant Orthodox Do<g ref="char:EOLhyphen"/>ctrin of <hi>Juſtification by Faith only</hi> is almoſt loſt. <hi>Mr. Baxter</hi> ran away with the word <hi>Only,</hi> and Dr. <hi>Criſp</hi> with the word <hi>Faith;</hi> ſo that, between them both, nothing is left.</p>
+            <p>I deſire the Reader to take notice, that I make my ſelf no Judge in the Controverſie of late on foot, <hi>who were guilty of the breach of the <g ref="char:V">Ʋ</g>nion,</hi> perhaps both Par<g ref="char:EOLhyphen"/>ties, one for <hi>giving</hi> the occaſion, t'other for <hi>taking</hi> it.</p>
+            <p>Whatever noiſe there is about me, I have this to glory in, That I plead for no Novel Doctrin, but the old Doctrin, wherein the old Prelates and Puritans were agreed, <hi>Juſtification by Faith only,</hi> againſt Inno<g ref="char:EOLhyphen"/>vators on either hand. If it be therefore askt, How I come <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o plead for Mr. <hi>Alſop</hi>? I meddle not with his Opinions, but am troubled (as no doubt many of our own are) to ſee ſuch a Critick in Philology, ſuch a Champion in Philoſophy, and ſuch an Oracle in Di<g ref="char:EOLhyphen"/>vinity, ridicul'd and defam'd beyond all meaſure. I acknowledge this Abuſe of him, Mr. <hi>Williams,</hi> and
+<pb n="36" facs="tcp:179288:20"/>other <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, every way more civil and gen<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>der provok'd me to appear. I <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, there are great Truths in the now c<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; many and good Arguments laid do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ity in <hi>Miniſters, &amp;c.</hi> far be it from me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contra<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, what is ſound and ſeaſonable.</p>
+         </div>
+         <div type="letter">
+            <head>Ad Reverendos, &amp; perquàm eruditos, D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mum <hi>Lobb,</hi> Dom. <hi>Alſop,</hi> nec non Do<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Williams,</hi> Theologum ſapientiſſimum.</head>
+            <p>
+               <hi>NON vos latet, non eundum eſt igitur mihi infici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Davus non</hi> Ocdipus: <hi>ſuppl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e tamen au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> quod inter vos Harmonia ſit continuata. Si dicitier,</hi> S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Minervam, <hi>ingenium, modeſte fateor, vobis nupſit, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c mihi. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quibuſdam nullus dubito, quin <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edozus ego, ſed ign<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bus, ſupra modum tam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n aliq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>do elatus &amp; iracund<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aliis ſuccenſeo, utinam mihi <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>piw. In meaſententia error <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vis argumenti loco fur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rem Ponere &amp; Victoriae ergo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>i.</hi>
+            </p>
+            <q>
+               <l>Non Liber aeque, non acuta</l>
+               <l>Sic geminant Corybante, aera.</l>
+               <l>Triſtes ut irae —</l>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>Haec olent ſuperbiam, ut dicit</hi> Jacobus <hi>unde Contentiones? Qui ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i volunt ign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s maſſiles? Sic obtinuit uſus nuperrime! No fugiat, ore, memoriam ſenrentia eorum, qui audterunt Ref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r mantes, &amp; R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmati <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obtra omn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Novatores, Aphoriſtam</hi> Antinomiſtam, <hi>quod repetatur antiqua &amp; dulcis melodia, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> omnia dexterrime.</hi> Criſpianorum <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gmata (prob do<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> peſſima reperi, non ibv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni. Nemo abhorret aqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ac ego. Om<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in haec contend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntes (me dempto) docti &amp; periti. Si de a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quid erravi, pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ociam vellem. Si non—</hi>
+            </p>
+            <p>
+               <hi>Si ſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ametis alii al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>madmodum Deus &amp; ego,</hi>
+            </p>
+            <q>Sublimi feriam ſydera vertice</q>
+            <p>Sic genibus flexis orat Deum, ſic quaſi <hi>Genibus flexis o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> veſtrum Obſequentiſſimus, Vernacule.</hi>
+            </p>
+            <closer>
+               <signed>Sam. Reconcileab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </signed>
+            </closer>
+            <pb facs="tcp:179288:20"/>
+            <pb facs="tcp:179288:21"/>
+            <pb facs="tcp:179288:21"/>
+            <pb facs="tcp:179288:22"/>
+            <pb facs="tcp:179288:22"/>
+            <pb facs="tcp:179288:23"/>
+            <pb facs="tcp:179288:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
